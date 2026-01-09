@@ -1,4 +1,5 @@
 import streamlit as st
+import pandas as pd
 st.set_page_config(page_title="CLV & Churn Prediction", layout="centered")
 st.title("💰 Customer Lifetime Value & Churn Prediction")
 st.markdown("Predict CLV and churn risk using key behavioral metrics.")
