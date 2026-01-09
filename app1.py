@@ -1,6 +1,4 @@
-# 12️⃣ Streamlit App
-# =========================
-# Only show top important features for user-friendly input
+import streamlit as st
 st.set_page_config(page_title="CLV & Churn Prediction", layout="centered")
 st.title("💰 Customer Lifetime Value & Churn Prediction")
 st.markdown("Predict CLV and churn risk using key behavioral metrics.")
